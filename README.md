@@ -1,16 +1,14 @@
-### Hi there 👋
+### Hi there 👋, My name is Maira
+#### Soy un estudiante de Análisis y Desarrollo de Sistemas de Información
+![Soy un estudiante de Análisis y Desarrollo de Sistemas de Información](https://arturssmirnovs.github.io/github-profile-readme-generator/images/banner.png)
 
-<!--
-**malejaR/malejaR** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Actualmente me encuentro en etapa lectiva
 
-Here are some ideas to get you started:
+Skills: JS / HTML / CSS
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 🔭 I’m currently working on this page. 
+
+
+
+
+
